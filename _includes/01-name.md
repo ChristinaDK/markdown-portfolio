@@ -1,2 +1,2 @@
 # Hallo alle zusammen
-##wir wollen hier heute etwas über Ernährung lernen :)
+## wir wollen hier heute etwas über Ernährung lernen :)
