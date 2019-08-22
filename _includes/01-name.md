@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Hallo alle zusammen
+##wir wollen hier heute etwas über Ernährung lernen :)
